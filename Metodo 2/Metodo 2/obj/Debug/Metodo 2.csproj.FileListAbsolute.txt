@@ -1,0 +1,7 @@
+C:\Users\boyhu\source\repos\Metodo 2\Metodo 2\bin\Debug\Metodo 2.exe.config
+C:\Users\boyhu\source\repos\Metodo 2\Metodo 2\bin\Debug\Metodo 2.exe
+C:\Users\boyhu\source\repos\Metodo 2\Metodo 2\bin\Debug\Metodo 2.pdb
+C:\Users\boyhu\source\repos\Metodo 2\Metodo 2\obj\Debug\Metodo 2.csprojAssemblyReference.cache
+C:\Users\boyhu\source\repos\Metodo 2\Metodo 2\obj\Debug\Metodo 2.csproj.CoreCompileInputs.cache
+C:\Users\boyhu\source\repos\Metodo 2\Metodo 2\obj\Debug\Metodo 2.exe
+C:\Users\boyhu\source\repos\Metodo 2\Metodo 2\obj\Debug\Metodo 2.pdb
