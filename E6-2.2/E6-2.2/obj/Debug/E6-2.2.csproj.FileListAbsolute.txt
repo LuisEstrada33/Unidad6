@@ -1,0 +1,7 @@
+C:\Users\boyhu\source\repos\E6-2.2\E6-2.2\bin\Debug\E6-2.2.exe.config
+C:\Users\boyhu\source\repos\E6-2.2\E6-2.2\bin\Debug\E6-2.2.exe
+C:\Users\boyhu\source\repos\E6-2.2\E6-2.2\bin\Debug\E6-2.2.pdb
+C:\Users\boyhu\source\repos\E6-2.2\E6-2.2\obj\Debug\E6-2.2.csprojAssemblyReference.cache
+C:\Users\boyhu\source\repos\E6-2.2\E6-2.2\obj\Debug\E6-2.2.csproj.CoreCompileInputs.cache
+C:\Users\boyhu\source\repos\E6-2.2\E6-2.2\obj\Debug\E6-2.2.exe
+C:\Users\boyhu\source\repos\E6-2.2\E6-2.2\obj\Debug\E6-2.2.pdb
