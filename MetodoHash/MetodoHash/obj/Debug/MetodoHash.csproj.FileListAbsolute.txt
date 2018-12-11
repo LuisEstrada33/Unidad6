@@ -1,0 +1,7 @@
+C:\Users\boyhu\source\repos\MetodoHash\MetodoHash\obj\Debug\MetodoHash.csprojAssemblyReference.cache
+C:\Users\boyhu\source\repos\MetodoHash\MetodoHash\obj\Debug\MetodoHash.csproj.CoreCompileInputs.cache
+C:\Users\boyhu\source\repos\MetodoHash\MetodoHash\bin\Debug\MetodoHash.exe.config
+C:\Users\boyhu\source\repos\MetodoHash\MetodoHash\bin\Debug\MetodoHash.exe
+C:\Users\boyhu\source\repos\MetodoHash\MetodoHash\bin\Debug\MetodoHash.pdb
+C:\Users\boyhu\source\repos\MetodoHash\MetodoHash\obj\Debug\MetodoHash.exe
+C:\Users\boyhu\source\repos\MetodoHash\MetodoHash\obj\Debug\MetodoHash.pdb
